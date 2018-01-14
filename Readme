@@ -1,0 +1,7 @@
+=======
+Notes:-
+=======
+A Simple Implementation of Conway's Game of Life using SDL2 library.
+SDL2 library is the only pre-requisite. 
+The implementation itself is in C(not C++). The initial life pattern is hardcoded into the source code. Sorry about that!
+The same could be created & initialized using the mouse.
